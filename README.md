@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="650" height="500" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/4KF8EdNFw6oNsgle3n/giphy.gif?cid=6c09b95232gvaxh6x0sjgtwccc09p04zjd4r84rylr5hk68w&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="650" height="500" />
 
 <!--
 **Viti01g/Viti01g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
