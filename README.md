@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://i.gifer.com/UpXW.gif" width="800" height="650" />
+<img align="right" alt="GIF" src="https://i.gifer.com/UpXW.gif" width="600" height="450" />
 
 [![](https://visitcount.itsvg.in/api?id=viti01g&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
 <!--
