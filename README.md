@@ -68,6 +68,10 @@
 </table>
 <br><br>
 </div>
+
+<div align=center>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/vruiz-go?1337Badge=off&UM6P=off" alt="drubio-m's 42 stats" /></a>
+</div>
 <!--
 **Viti01g/Viti01g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
