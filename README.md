@@ -10,7 +10,7 @@
 [![42 Intra](https://img.shields.io/badge/Intra-20232A?style=for-the-badge&logo=42&logoColor=107ab0)](https://profile.intra.42.fr/users/vruiz-go)
 
 #### 🧑‍💻 Sobre mí
-Estudiante de informática apasionado por el desarrollo backend, sistemas y el mundo open source. Amante de los retos y la mejora continua.
+Ingeniero de Software especializado en Backend. Actualmente curso mis estudios en la [Escuela 42](https://www.42network.org/), una institución basada en aprendizaje por proyectos centrada en ingeniería de software. Durante mi formación he fortalecido mis conocimientos en lenguajes de bajo nivel como C y C++
 
 ---
 
