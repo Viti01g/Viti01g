@@ -23,29 +23,77 @@ Estudiante de informática apasionado por el desarrollo backend, sistemas y el m
 | [🗂️​ Modules-CPPS](https://github.com/Viti01g/Modules-CPPS) | Programación en C++ para entornos avanzados |
 
 ---
+<br>
+<div align="left">
+  <h3>🛠️ Languages and Tools :</h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="60" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySql
+    </td>
+       </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="icon" width="65" height="65" />
+      <br>VsCode
+    </td>
 
-#### 🛠️ Tecnologías y herramientas
-![Java](https://techstack-generator.vercel.app/java-icon.svg) ![C++](https://techstack-generator.vercel.app/cpp-icon.svg) ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) ![GitHub](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg) ![Bash](https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg) ![MySql](https://techstack-generator.vercel.app/mysql-icon.svg) ![JavaScript](https://techstack-generator.vercel.app/js-icon.svg) ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) ![VSCode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
+ </tr>
+</table>
+<br>
+</div>
 
 ---
 
 #### 📊 Stats y logros
 <div align="center">
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/vruiz-go?1337Badge=off&UM6P=off" alt="vruiz-go's 42 stats" /></a>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Viti01g&show_icons=true" alt="GitHub Stats" />
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/vruiz-go?1337Badge=off&UM6P=off" alt="vruiz-go's 42 stats" />
+	<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viti01g&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Victor Ruiz GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viti01g&hide_border=true&bg_color=0D1117&layout=compact&theme=react" alt="Top Languages" style="display:inline-block; width: 35%;" />
+</p>
+   
 </div>
+	
+
 
 ---
-
-#### 📫 Contacto
-- Email: tuemail@example.com
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-
----
-
-#### ⚡ Última actualización
-*Archivo actualizado en septiembre 2025.*
 
 
 <!--
