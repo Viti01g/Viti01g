@@ -83,10 +83,10 @@ Ingeniero de Software especializado en Backend. Actualmente curso mis estudios e
 
 #### 📊 Stats y logros
 <div align="center">
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/vruiz-go?1337Badge=off&UM6P=off" alt="vruiz-go's 42 stats" />
 	<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viti01g&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Victor Ruiz GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viti01g&hide_border=true&bg_color=0D1117&layout=compact&theme=react" alt="Top Languages" style="display:inline-block; width: 35%;" />
+	<img src="https://github-readme-stats.vercel.app/api?username=viti01g&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Victor Ruiz GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viti01g&hide_border=true&bg_color=0D1117&layout=compact&theme=react" alt="Top Languages" style="display:inline-block; width: 35%;" />
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/vruiz-go?1337Badge=off&UM6P=off" alt="vruiz-go's 42 stats" />
 </p>
    
 </div>
